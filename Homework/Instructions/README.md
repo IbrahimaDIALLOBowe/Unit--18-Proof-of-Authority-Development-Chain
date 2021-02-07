@@ -123,6 +123,8 @@ Be sure to include any preliminary setup information, such as installing depende
 
 ![puppeth](puppeth-node1.jpg)
 
+![puppeth-node3-and-node4](puppeth-node3-and-node4 .jpg)
+
 ![mycrypto-transaction](mycrypto-transaction.jpg)
 
 ![transaction-details](transaction-details.jpg)
